@@ -2,6 +2,10 @@ import styled from 'styled-components'
 
 export const Wrapper = styled.div`
 	padding: var(--large) var(--medium);
+
+	@media (max-width: 800px) {
+		padding: var(--large) 2rem;
+	}
 `
 
 export const Container = styled.section`
