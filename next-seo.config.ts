@@ -2,7 +2,7 @@ export default {
 	openGraph: {
 		type: 'website',
 		locale: 'en_US',
-		url: 'https://localhost.teste.com.br',
+		url: 'https://blog-my-trips-nextjs.vercel.app/',
 		site_name: 'Blog My Trips'
 	},
 	twitter: {
