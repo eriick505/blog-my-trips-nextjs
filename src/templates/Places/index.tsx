@@ -73,6 +73,7 @@ export default function PlacesTemplate({ place }: PlacesTemplateProps) {
 								width={500}
 								height={400}
 								quality={75}
+								objectFit="cover"
 							/>
 						))}
 					</S.Gallery>
